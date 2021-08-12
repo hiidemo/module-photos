@@ -101,3 +101,5 @@ $lang_module['photo_incat_nums'] = 'Số ảnh trong chuyên mục';
 
 $lang_module['next_photo'] = 'Ảnh tiếp theo';
 $lang_module['prev_photo'] = 'Ảnh trước';
+
+$lang_module['nocatpage'] = 'Lỗi không có chủ đề';
