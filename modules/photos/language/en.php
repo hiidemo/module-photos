@@ -89,3 +89,5 @@ $lang_module['photo_nums'] = 'Total photo(s)';
 $lang_module['photo_incat_nums'] = 'Total photo(s) in Category';
 $lang_module['next_photo'] = 'Next';
 $lang_module['prev_photo'] = 'Previous';
+
+$lang_module['nocatpage'] = 'Error:No topic';
